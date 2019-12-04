@@ -6,6 +6,7 @@
 ## project 1
 
 This is about
+[![Sample Image](images/INSPIRATIONIDEATIONIMPLEMENTATION.png)
 
 ### project 2
 
